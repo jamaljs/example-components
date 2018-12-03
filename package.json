@@ -1,0 +1,13 @@
+{
+  "name": "example-components",
+  "author": {
+    "email": "akinozgen17@outlook.com",
+    "name": "Akın Özgen"
+  },
+  "scripts": {
+    "watch": "parcel -p 8080 watch src/index.html -d dist --global Jml"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
