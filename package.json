@@ -11,6 +11,6 @@
     "parcel-bundler": "^1.10.3"
   },
   "dependencies": {
-    "jamal": "^1.1.2"
+    "jamal": "^1.1.3"
   }
 }
