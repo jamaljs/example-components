@@ -1,4 +1,4 @@
-import __ from 'jamal';
+const __ = require('jamal');
 __.initialize();
 
 import Card from './components/card';
