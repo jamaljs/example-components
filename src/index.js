@@ -10,7 +10,7 @@ const app = new __.create('#app', Card({
   actions: [
     {
       attributes: {
-        stlye: 'cursor: pointer',
+        style: 'cursor: pointer',
         _onClick: function () {
           window.open('http://twitter.com/akinozgen17');
         }
